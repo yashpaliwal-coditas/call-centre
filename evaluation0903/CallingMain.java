@@ -27,59 +27,91 @@ public class CallingMain {
 //3.View All User
 //0: Exit
 //2
-//1314829488
 //Enter the name
 //yash
 //Enter the email
-//yasash
+//yaassa
 //Enter the address
-//agra
+//uyadaciug
 //Enter the sim type
 //prepaid
 //Enter the adhar number
-//533763
+//3456
 //Enter the initial balance
-//200
-//Congratulation your mobile number is 1314829488
-//1: Prepaid user
-//2: New Connection
-//3.View All User
-//0: Exit
-//1
-//Enter the Mobile Number
-//65424275
-//You have entered wrong mobile number
-//Please enter correct mobile number
-//1: Prepaid user
-//2: New Connection
-//3.View All User
-//0: Exit
-//1
-//Enter the Mobile Number
-//131482988
-//You have entered wrong mobile number
-//Please enter correct mobile number
-//1: Prepaid user
-//2: New Connection
-//3.View All User
-//0: Exit
-//1
-//Enter the Mobile Number
-//1314829488
-//0: Check balance and validity
-//1: Recharge
-//1
-//Enter recharge amount
-//500
+//100
+//Congratulation your mobile number is 1188565335
 //1: Prepaid user
 //2: New Connection
 //3.View All User
 //0: Exit
 //3
-//User{name='yash', email='yasash', address='agra', simType='prepaid', adharNo=533763, balance=700.0, mobileNumber=1314829488, validity=2}
 //1: Prepaid user
 //2: New Connection
 //3.View All User
 //0: Exit
+//3
+//User{name='yash', email='yaassa', address='uyadaciug', simType='prepaid', adharNo=3456, balance=100.0, mobileNumber=1188565335, validity=1}
+//1: Prepaid user
+//2: New Connection
+//3.View All User
+//0: Exit
+//1
+//Enter the Mobile Number
+//355
+//You have entered wrong mobile number
+//Please enter correct mobile number
+//1: Prepaid user
+//2: New Connection
+//3.View All User
+//0: Exit
+//1
+//Enter the Mobile Number
+//1188565335
+//0: Check balance and validity 
+//1: Recharge
+//0
+//Your balance is 100.0 validity is 1
+//1: Prepaid user
+//2: New Connection
+//3.View All User
+//0: Exit
+//1
+//Enter the Mobile Number
+//1188565335
+//0: Check balance and validity 
+//1: Recharge
+//1
+//Enter recharge amount
+//0
+//you have entered wrong amount
+//Amount should be greater than 0
+//1: Prepaid user
+//2: New Connection
+//3.View All User
+//0: Exit
+//1
+//Enter the Mobile Number
+//1188565335
+//0: Check balance and validity 
+//1: Recharge
+//1
+//Enter recharge amount
+//1000
+//1: Prepaid user
+//2: New Connection
+//3.View All User
+//0: Exit
+//1
+//Enter the Mobile Number
+//1188565335
+//0: Check balance and validity 
+//1: Recharge
+//0
+//Your balance is 1100.0 validity is 2
+//1: Prepaid user
+//2: New Connection
+//3.View All User
+//0: Exit
+//0
 //
-//Process finished with exit code 130
+//Process finished with exit code 0
